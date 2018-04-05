@@ -1,6 +1,7 @@
-# temporary-repo
 
-hey Joe whats up or somethin?
+ # temporary-repo
+ 
+-This is the repository for a super cool program. There's a spelling error in this sentence.
 
 ## Installation
 

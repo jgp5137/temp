@@ -1,6 +1,6 @@
 # temporary-repo
 
-This is the repository for a super cool program. There's a speeeling error in this sentence.
+hey JOe whats up or somethin?
 
 ## Installation
 

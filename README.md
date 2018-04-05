@@ -1,6 +1,6 @@
 # temporary-repo
 
-hey JOe whats up or somethin?
+hey Joe whats up or somethin?
 
 ## Installation
 
